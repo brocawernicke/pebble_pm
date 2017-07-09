@@ -1,4 +1,4 @@
-# pebble_pm
+# 미세먼지 앱 for Pebble
 Particle matter App for Pebble
 ## TODO
 * Change Icon
