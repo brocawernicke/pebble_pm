@@ -1,7 +1,7 @@
 #include <pebble.h>
 #include "app_pm.h"
 
-#define API_SERVICE_KEY "OP7ODnqejGwpT1mU%2BvxP9xYTt%2BspoqiYJBpEdO3CG6DgGnpVnBPOt%2F5PdlS7Rtu1ry9tFDWFxK3aPzsJ04FKEQ%3D%3D"
+#define API_SERVICE_KEY "%%%"
 
 static Window *s_window;
 static PmValuesStructType s_pm_values;
