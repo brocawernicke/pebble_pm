@@ -4,3 +4,4 @@ Particle matter App for Pebble
 * Change Icon
 * Add Geolocation
 * Peoridically update pm values
+* Add pin when PM values go bad
