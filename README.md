@@ -6,3 +6,4 @@ Particle matter App for Pebble
 * Peoridically update pm values
 * Add pin when PM values go bad
 * Connect to IFTTT
+* caching the previous values
