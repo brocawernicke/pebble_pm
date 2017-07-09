@@ -5,3 +5,4 @@ Particle matter App for Pebble
 * Add Geolocation
 * Peoridically update pm values
 * Add pin when PM values go bad
+* Connect to IFTTT
