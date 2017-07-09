@@ -1,2 +1,2 @@
 # pebble_pm
-Pebble  
+Particle matter App for Pebble
